@@ -1,0 +1,36 @@
+/* Write your CSS here */
+
+.appointment-card {
+  border: solid 1px;
+  background-color: white;
+  border-color: gray;
+  padding: 10px;
+  border-radius: 10px;
+  width: 200px;
+  margin: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.headingtitle {
+  font-size: 15px;
+  color: #171f46;
+  font-family: 'Roboto';
+}
+
+.date-timing {
+  font-size: 10px;
+  color: #b5b7c4;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.images {
+  height: 20px;
+}
+
+button {
+  border: none;
+  background-color: transparent;
+}
